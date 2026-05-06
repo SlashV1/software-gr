@@ -1,2 +1,2 @@
-# software-gr
-Sistema de gestión de clientes, servicios y reservas
+# sistema-gestion-reservas-poo
+## Sistema de gestión de clientes, servicios y reservas
