@@ -1,0 +1,5 @@
+2026-05-11 19:36:09,519 - INFO - Reserva R1 confirmada para Cliente: Ana Garcia (ID: C1)
+2026-05-11 19:36:09,521 - ERROR - Error en Reserva R2: La duración debe ser mayor a cero.
+2026-05-11 19:36:09,522 - INFO - Reserva R4 confirmada para Cliente: Pedro Picapiedra (ID: C3)
+2026-05-11 19:36:09,523 - INFO - Reserva R5 confirmada para Cliente: Luis Perez (ID: C4)
+2026-05-11 19:36:09,525 - ERROR - Error en Reserva R6: La duración debe ser mayor a cero.

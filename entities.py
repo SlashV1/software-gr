@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from exceptions import DatosInvalidadosError, ReservaInvalidaError
+from excepciones import DatosInvalidadosError, ReservaInvalidaError
 import logging
 
 class EntidadBase(ABC):
